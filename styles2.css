@@ -1,0 +1,38 @@
+.afternav{
+    background-color: rgb(206, 189, 189);
+}
+
+.marginbottom{
+    margin-bottom: 30px;
+}
+
+.white{
+    color: white;
+
+}
+
+.red{
+    color:crimson;
+}
+
+.h1about{
+    text-align: center;
+}
+
+.softmillh1{
+    text-align: center;
+    color: crimson;
+}
+
+.blue{
+    color: rgb(23, 3, 66);
+}
+
+
+.footer{
+    background-color: crimson;
+}
+h2{
+    text-align: center;
+    color: rgb(39, 1, 75);
+}

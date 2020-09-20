@@ -1,0 +1,30 @@
+.afternav{
+    background-image: url(images/imae11.jpg) ;
+    background-color: grey;
+}
+.white{
+    color: white;
+}
+.blue{
+    color: rgb(14, 14, 73);
+}
+
+.softmillh1{
+    text-align: center;
+    color: crimson;
+}
+
+.red{
+    color:crimson;
+}
+
+.marginbottom{
+    margin-bottom: 40px;
+}
+
+.footer{
+    background-color: crimson;
+}
+h2{
+    text-align: center;
+}
